@@ -1,0 +1,10 @@
+set gfn=Consolas:h12:cANSI
+set lsp=3
+set co=120
+set lines=40
+set window=39
+set nu
+set ts=4
+set sw=4
+set si
+
