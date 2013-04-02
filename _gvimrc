@@ -1,4 +1,4 @@
-set gfn=Consolas:h12:cANSI
+set gfn=Monaco:h16
 set lsp=3
 set co=120
 set lines=40
